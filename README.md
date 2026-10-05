@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitHub Repository Analytics
 
 Explore recently created GitHub repositories and inspect weekly commit, addition, and deletion activity.
@@ -25,3 +26,6 @@ Restart Vite after changing `.env.local`. The app reports the rate-limit reset t
 npm run lint
 npm run build
 ```
+=======
+# Github-Project
+>>>>>>> dc240937157aeeeb49d0e5dc9db41e2fafc6cb74
